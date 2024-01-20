@@ -1,6 +1,8 @@
 # Run
-After installing all the requirements 
-To run type: ## node index.js
+After installing all the requirements.
+
+To run type:
+## node index.js
 
 ## Node
 - #### Node installation on Windows
