@@ -1,5 +1,5 @@
-#Run
-###Type node index.js to run the project
+# Run
+### Type node index.js to run the project
 
 ## Node
 - #### Node installation on Windows
