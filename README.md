@@ -1,5 +1,6 @@
 # Run
-### Type ## node index.js ### to run the project
+After installing all the requirements 
+To run type: ## node index.js
 
 ## Node
 - #### Node installation on Windows
